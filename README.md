@@ -67,7 +67,7 @@ Downloaded "awscli" from https://aws.amazon.com/cli/
 
 <img width="1440" alt="Screenshot 2023-05-18 at 12 18 55 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/1156866a-097a-44e9-a616-4b45ebfbf1a7">
 
-## Create a lamda function that accepts python code with the above role
+## Write a lamda function that accepts python code with the above role
   ```
   import boto3
 import datetime, time
