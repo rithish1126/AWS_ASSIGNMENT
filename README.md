@@ -174,10 +174,9 @@ def lambda_handler(event, context):
         }
 ```
 
+<img width="1014" alt="Screenshot 2023-05-18 at 3 01 19 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/718e4dd8-1d0b-4f41-b570-dd73a3effb8b">
+<img width="1014" alt="Screenshot 2023-05-18 at 3 01 45 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/3cca0e8f-6009-4e37-8085-c3631444ded2">
 
-<img width="1440" alt="Screenshot 2023-05-18 at 1 00 23 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/c9ead3b8-dec9-48fd-8561-9274730e1386">
-
-<img width="1440" alt="Screenshot 2023-05-18 at 1 14 37 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/14851733-3954-4b13-b1bb-97e783048f08">
 
 <img width="1440" alt="Screenshot 2023-05-18 at 1 16 10 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/a91f2bbf-e467-4cfa-8e56-ae68d04395b9">
 
