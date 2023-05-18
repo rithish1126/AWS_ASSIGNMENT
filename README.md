@@ -179,9 +179,9 @@ def lambda_handler(event, context):
 
 
 <img width="1440" alt="Screenshot 2023-05-18 at 1 16 10 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/a91f2bbf-e467-4cfa-8e56-ae68d04395b9">
+<img width="1013" alt="Screenshot 2023-05-18 at 3 03 46 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/26b7df68-adca-4b40-9872-8fcd354c5e08">
 
 
-<img width="1440" alt="Screenshot 2023-05-18 at 1 19 35 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/b6e976a7-375d-4d18-a26a-5e9dff182649">
 
 
 
