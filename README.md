@@ -135,6 +135,8 @@ def lambda_handler(event, context):
 
 # 3) API gateway- Lambda integration 
 
+<img width="1440" alt="Screenshot 2023-05-18 at 3 26 23 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/44bfc282-2285-4512-ab26-c150b4d59a64">
+
 ## a. Modify lambda function to accept parameters and return file name
 
 lamda Function that accepts parameters to return file name
