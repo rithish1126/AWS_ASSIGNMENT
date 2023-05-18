@@ -173,9 +173,7 @@ def lambda_handler(event, context):
             "status": e
         }
 ```
-<img width="1440" alt="Screenshot 2023-05-18 at 12 59 06 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/40d3513c-8f9b-4612-b947-3fe9e1f3a6ed">
 
-<img width="1440" alt="Screenshot 2023-05-18 at 1 00 11 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/9e22cd23-f7e3-47ea-9f7d-3a29f96fe02e">
 
 <img width="1440" alt="Screenshot 2023-05-18 at 1 00 23 PM" src="https://github.com/rithish1126/AWS_ASSIGNMENT/assets/122535424/c9ead3b8-dec9-48fd-8561-9274730e1386">
 
