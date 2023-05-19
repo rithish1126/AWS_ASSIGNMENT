@@ -7,7 +7,7 @@ s3 = boto3.resource('s3')
 bucket_name = 'rithishbucket'
 key_name = 'transaction{}.json'
 
-cw_logs = boto3.client('logs')
+
 
 counter=0
 def set_concurrency_limit(function_name):
