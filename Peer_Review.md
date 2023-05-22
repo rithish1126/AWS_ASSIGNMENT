@@ -15,4 +15,4 @@
 2) Dhruv has given some basic permissions(policies) like s3 bucket permissions, cloudwatch permissions etc to role associated to a lamda function that can run python scripts.Then has used the dump functions to dump files in the s3 bucket and has used cloudwatch rules to run the script 3 times and generates cloud watch logs
 
 ## Task 3
-3)Dhruv has use awsapigateway triggers on his lamda function and has made a rest api to take parametrized inputs from user and return file names,This api was then deployed and the curl command was used by him to get output from the api
+3)Dhruv has used awsapigateway triggers on his lamda function and has made a rest api to take parametrized inputs from user and return file names,This api was then deployed and the curl command was used by him to get output from the api
